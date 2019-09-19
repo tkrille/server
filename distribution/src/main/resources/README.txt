@@ -1,9 +1,5 @@
 Welcome to OSIAM!
 
-Please have a look at the website of OSIAM: https://www.osiam.org
-GitHub: https://github.com/osiam/server
-Jira: https://jira.osiam.org
-
 If you want to run OSIAM:
 https://github.com/osiam/server/blob/master/docs/detailed_reference_installation.md
 
